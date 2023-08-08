@@ -1,2 +1,3 @@
 NETBOX_URL=https://your-netbox-instance/api/ipam/ip-addresses/
 NETBOX_TOKEN=YOUR_NETBOX_API_TOKEN
+NETBOX_TAG_NAME='autodiscover'
